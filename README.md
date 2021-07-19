@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @farial24
+- 👋 Hi, I’m @alfari
 - 😁 I'm a student and programmer, doing some experiment
 - (. ❛ ᴗ ❛.)
 
