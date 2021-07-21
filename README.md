@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @alfari
 - 😁 I'm a student and programmer, doing some experiment
-- alfari.net
 - (. ❛ ᴗ ❛.)
 
 
