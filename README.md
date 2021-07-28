@@ -15,17 +15,24 @@
   </a>
 </p>
 
-- 🎓 May 2020 - **B.S. in Computer Science**
-- 💻 Currently working on frontend/fullstack projects
-- 🌱 Currently learning **fullstack dev**
+- 🎓 **Informatics Engineering** || August 2019 - present
+- 💻 Currently working on a college project
+- 🌱 Currently studying **Machine Learning**
 - 💬 Talk to me about nature, street, and urban **photography** :camera:
-- 👑 Pronouns: [she/her](https://www.mypronouns.org/she-her)
+- 👑 Pronoun: he/him
 - 🎲 Fun fact: I animated the svg at the top of this page with pure CSS
-- 🌴 Check out my website **[anniew.xyz](https://anniew.xyz/)**
+- 🌴 Check out my website **[alfari.net](https://alfari.net/)**
+
+Informatics Engineering || August 2019 - present
+Currently working on a college project
+Currently studying Machine Learning
+Talk to me about nature, street and urban photography
+Pronoun: he/him
+See my website alfari.net
 
 ### Spotify Now Playing 🎧
 
-[<img src="https://novatorem-lyart.vercel.app/api/spotify" alt="anniedotexe's Spotify Now Playing" width="350" />](https://open.spotify.com/user/1238868836)
+[<img src="https://novatorem-lyart.vercel.app/api/spotify" alt="alfari Spotify Now Playing" width="350" />](https://open.spotify.com/user/31mfrtc55gmt4k225vtb6doiyfkm)
 
 ### Languages and Technologies
 
