@@ -1,8 +1,10 @@
+<!--
 <p align="center">
   <a href="https://gist.github.com/anniedotexe/c5c01ee2170ec18574f94d25461c5139">
     <img alt="Annie Wu animated svg" src="https://gist.githubusercontent.com/anniedotexe/c5c01ee2170ec18574f94d25461c5139/raw/503d2c23c33e3aa3f41e6800e86db0476470dcee/me.svg" width="75%" height=auto preserveAspectRatio="xMidYMid meet"/>
   </a>
 </p>
+-->
 
 <p align="center">
   <a href="mailto:anniewu2303@gmail.com"> 
