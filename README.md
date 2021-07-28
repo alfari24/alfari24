@@ -7,26 +7,11 @@
 -->
 
 <p align="center">
-  <a href="mailto:anniewu2303@gmail.com"> 
+  <a href="mailto:muhammadarialghifari57@gmail.com"> 
     <img alt="Connect via Email" src="https://img.shields.io/badge/Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/anniewu2303/"> 
-    <img alt="Connect on LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" />
-  </a>
-  <a href="https://dev.to/anniedotexe"> 
-    <img alt="Follow on DEV" src="https://img.shields.io/badge/-dev.to-0A0A0A?style=for-the-badge&logo=Dev.to&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/anniedotexe"> 
-    <img alt="Follow on Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/anniedotexe/"> 
+  <a href="https://www.instagram.com/alfari_zero/"> 
     <img alt="Follow on Instagram" src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://www.flickr.com/people/anniewuphotos/"> 
-    <img alt="Follow on Flickr" src="https://img.shields.io/badge/-Flickr-0063DC?style=for-the-badge&logo=flickr&logoColor=white" />
-  </a>
-  <a href="https://www.twitch.tv/anniedotexe"> 
-    <img alt="Follow on Twitch" src="https://img.shields.io/badge/-Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" />
   </a>
 </p>
 
