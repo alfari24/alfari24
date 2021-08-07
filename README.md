@@ -1,7 +1,7 @@
 
 <p align="center">
   <a href="#">
-    <img alt="Annie Wu animated svg" src="https://i.ibb.co/Wg56hFM/header-111.jpg" width="75%" height=auto preserveAspectRatio="xMidYMid meet"/>
+    <!--<img alt="Annie Wu animated svg" src="https://i.ibb.co/Wg56hFM/header-111.jpg" width="75%" height=auto preserveAspectRatio="xMidYMid meet"/>-->
   </a>
 </p>
 
