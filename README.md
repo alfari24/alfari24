@@ -33,10 +33,6 @@ Talk to me about nature, street and urban photography
 Pronoun: he/him
 See my website alfari.net
 
-### Spotify Now Playing 🎧
-
-[<img src="https://novatorem-lyart.vercel.app/api/spotify" alt="alfari Spotify Now Playing" width="350" />](https://open.spotify.com/user/31mfrtc55gmt4k225vtb6doiyfkm)
-
 ### Languages and Technologies
 
 
