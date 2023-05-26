@@ -18,17 +18,13 @@
 </p>
 
 
-
-- 🎓 **Informatics Engineering** || August 2019 - present
 - 💻 Currently working on a college project
-- 🌱 Currently studying **Machine Learning**
 - 💬 Talk to me about nature, street, and urban **photography** :camera:
 - 👑 Pronoun: he/him
 - 🌴 Check out my website **[alfari.id](https://alfari.id/)**
 
-Informatics Engineering || August 2019 - present
+
 Currently working on a college project
-Currently studying Machine Learning
 Talk to me about nature, street and urban photography
 Pronoun: he/him
 See my website alfari.net
