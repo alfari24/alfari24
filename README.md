@@ -18,7 +18,7 @@
 </p>
 
 
-- 💻 Currently working on a college project
+
 - 💬 Talk to me about nature, street, and urban **photography** :camera:
 - 👑 Pronoun: he/him
 - 🌴 Check out my website **[alfari.id](https://alfari.id/)**
