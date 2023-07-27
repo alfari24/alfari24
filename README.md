@@ -35,7 +35,6 @@ See my website alfari.net
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff)
 ![HTML5](https://img.shields.io/badge/-HTML5-E44D26?style=for-the-badge&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-2965f1?style=for-the-badge&logo=css3&logoColor=ffffff)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=ffffff)
 ![COLAB](https://img.shields.io/badge/COLAB%20RESEARCH-COLAB-orange?style=for-the-badge&logo=ffffff)
 
 
